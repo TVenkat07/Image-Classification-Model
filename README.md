@@ -66,7 +66,7 @@ This project demonstrates how to build and train a **Convolutional Neural Networ
 - Experiment with transfer learning using pre-trained models  
 
 OUTPUT:
-https://github.com/TVenkat07/Image-Classification-Model/issues/1#issue-3006966297
+![Image](https://github.com/user-attachments/assets/eed30fae-0997-493a-a319-607e9fcf2ec4)
 
 
 
